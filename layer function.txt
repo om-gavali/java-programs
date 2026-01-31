@@ -1,0 +1,135 @@
+physical layer:=
+
+representation of bit
+circuit switching 
+multiplixing 
+traansmissio mode
+data rate
+
+bluethooth
+usb
+eathernet 
+sonet
+
+datalink layer:=
+
+framming 
+addressing 
+flow control
+error control
+
+ppp
+slip
+token ring 
+ppt
+
+network layer:=
+
+logical addressing 
+routing
+subnet control
+fragmentaation
+inter networking
+
+ip
+ipv4
+ipv6
+ipsec
+ipmp
+
+transport layer:=
+
+synchronization
+error control
+flow control
+connection control
+
+tcp
+udp
+
+session layer:=
+
+dialog control
+data exchange 
+activity management
+synchronization
+
+sdp
+pap
+
+presentation layer:=
+
+translation
+encryption
+compression
+
+http
+ftp
+
+
+application layer:=
+
+mail control
+
+
+ftp
+http
+telnet
+smtp
+dhcp
+bootp
+
+
+
+================================================
+
+TCP/IP  MODEL
+
+host to network layer:=
+
+physsical transmission of data
+
+no standard protocool require
+
+
+internet layer:=
+
+logical transmisssion of data over a network
+
+ip
+arp
+rarp
+icmp
+
+transport layer:=
+
+end to end error free delivery of data.
+
+tcp
+udp
+
+application layer:=
+
+provide inter face for transport layer services
+
+
+ftp
+http
+smtp
+telnet
+dns
+bootp
+dhcp
+==========================================================
+
+
+hub				    switch
+==================================
+physical layer   datalink layer
+
+4/12 port			24/48 port
+
+passive device    active device
+
+slow speed        high speed
+======================================
